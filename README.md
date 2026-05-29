@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Iliya BaniHasan
+# 👋 Hi, I'm Iliya BaniHassan
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=DBF1FD&center=true&vCenter=true&width=700&lines=Iliya+BaniHassan;Computer+Science+Student;Quantitative+Finance+Researcher+%26+Developer)
 
@@ -25,5 +25,5 @@
 
 ---
 
-⭐ “Building systems at the intersection of code 💻, math 🧮 and the markets 📈.”
+⭐ “Building systems at the intersection of code 💻 , math 🧮 and the markets 📈.”
 
