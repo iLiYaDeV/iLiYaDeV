@@ -32,7 +32,7 @@
 ---
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=The+End;"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=EFBF04&center=true&vCenter=true&width=800&lines=Building+systems+at+the+intersection+of;code,+math+%26+financial+markets;"
   alt="Typing SVG"
   width="100%"
 />
