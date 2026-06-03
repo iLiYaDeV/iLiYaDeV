@@ -31,5 +31,11 @@
 
 ---
 
-⭐ “Building systems at the intersection of code 💻 , math 🧮 and the markets 📈.”
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=The+End;"
+  alt="Typing SVG"
+  width="100%"
+/>
+
+</div>
 
